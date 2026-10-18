@@ -11,16 +11,6 @@ Hey, I'm Ye Wint Ko 👋
 - 🔐 Cybersecurity and ethical hacking
 - 🌍 Web development with HTML, CSS, JavaScript, and Python
 - 🖧 Networking, Linux, and network security
-- 🤖 AI and IoT projects using ESP32
-
-🎯 My goal is to become a Network Security Engineer and build practical projects that solve real-world problems.
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 🐙 GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
