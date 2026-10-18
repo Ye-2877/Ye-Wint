@@ -25,7 +25,7 @@ Hey, I'm Ye Wint Ko 👋
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Web Developer](https://img.shields.io/badge/Web_Developer-Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Networking & Cybersecurity**
 
