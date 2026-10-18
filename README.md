@@ -3,7 +3,7 @@
 
 Hey, I'm Ye Wint Ko 👋
 
-💻 IT student interested in networking, cybersecurity, and software development.
+💻 IT student interested in networking, cybersecurity, and web development.
 
 🌐 I enjoy building web applications, configuring networks, and experimenting with technology.
 
